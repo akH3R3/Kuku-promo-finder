@@ -44,6 +44,3 @@ Swap models with `--provider` / `--model`. Any OpenAI-compatible API works via `
 - after ranking: `report.md` (read this first), `ranked.csv`, `ranked.json`, `rank_raw.json`
 
 Responses are cached in `outputs/cache/`, so re-runs are free and instant.
-
-## Note
-`data/` is git-ignored: the scripts are Kuku's confidential content, don't push them.
